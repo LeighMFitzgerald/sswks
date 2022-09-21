@@ -1,0 +1,7 @@
+{
+	"name": "tosftostoragefile",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/635b2aee-1f07-404d-9851-5b4f8a84cf13/resourceGroups/ARIEL-TF-RG/providers/Microsoft.Storage/storageAccounts/tfstatefileazuresa",
+		"groupId": "file"
+	}
+}

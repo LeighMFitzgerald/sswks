@@ -1,0 +1,10 @@
+{
+	"name": "tovault",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/635b2aee-1f07-404d-9851-5b4f8a84cf13/resourceGroups/ARIEL-TF-RG/providers/Microsoft.KeyVault/vaults/terraform-mykv",
+		"groupId": "vault",
+		"fqdns": [
+			"terraform-mykv.vault.azure.net"
+		]
+	}
+}

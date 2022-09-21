@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--eqc-poc-syn-wks-eqcpocsynwksdlsa",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/635b2aee-1f07-404d-9851-5b4f8a84cf13/resourceGroups/Leigh-DevOps-RG/providers/Microsoft.Storage/storageAccounts/eqcpocsynwksdlsa",
+		"groupId": "dfs"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--eqc-poc-syn-wks",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/635b2aee-1f07-404d-9851-5b4f8a84cf13/resourceGroups/Leigh-DevOps-RG/providers/Microsoft.Synapse/workspaces/eqc-poc-syn-wks",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"eqc-poc-syn-wks-ondemand.8e14f410-b288-4688-b46c-feb7dd69a0c1.sql.azuresynapse.net"
+		]
+	}
+}
